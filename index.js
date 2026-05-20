@@ -4,7 +4,7 @@ const app=express()
 
 app.get('/',(req,res)=>{
     res.json({
-        "message":"Server is up in v1",
+        "message":"Server is up in v2.............",
         "status":true
     })
 })
